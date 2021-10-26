@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nrir{
+    font-size: 90px;
+}
+.nike-color{
+    color:#fa804c; 
+}
+.head-color{
+    background-color: #ffedde;
+}
+.btn-color{
+    background-color: #295094;
+    color: white;
+    
+}
+header{
+   height: 700px;
+}
+.p-color{
+    color: #FA804C;
+    font-size: large;
+}
+i{
+    width: 100px;
+    height: 500px;
+}
